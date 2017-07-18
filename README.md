@@ -10,7 +10,7 @@ iii. The application detects the QR Code decodes it,fetches the data of the user
 iv.  The design then runs the face recognizition algorithm to authenticate the user.
 v.   After identifing the user it makes an entry into the database regarding time of entrance of attendee and then it removes the              recognizer database created specially for him/her.
 
-#Installation
+## Installation ##
 
 Requirements:
 * Python 2.7

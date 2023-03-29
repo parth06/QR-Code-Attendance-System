@@ -20,4 +20,4 @@ Requirements:
 * MySQL-python (version 1.2.5)
 * Pillow (version 4.0.0)
 * zbar (version 0.10)
-
+*
